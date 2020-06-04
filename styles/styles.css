@@ -1,14 +1,4 @@
 body {
 	padding-top: 65px;
 	background-color: rgb(255, 253, 250);
-	height: 100%;
-}
-
-#page-content {
-	flex: 1 0 auto;
-	background-color: red;
-}
-
-#sticky-footer {
-	flex-shrink: none;
 }
